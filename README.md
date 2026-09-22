@@ -22,10 +22,10 @@ Copy that jar into your Fabric 1.21.1 mods folder and launch the game. All block
 
 ## Contents
 
-- **FNaF 1 Wall** — plain checkerboard wall block
+- **FNaF 1 Wall** — standard grey wall block
 - **FNaF 1 Blue Wall Trim** — wall with blue trim on sides
-- **FNaF 1 Wall Trim** — wall with grey trim on sides
-- **FNaF 1 Bottom Wall** — lower wall variant
+- **FNaF 1 Wall Trim** — wall with red trim on sides
+- **FNaF 1 Bottom Wall** — lower darker wall variant
 - **Cupcake Prop** — decorative Mr. Cupcake block
 - **Showbiz Pizza Trim** — wall trim for Showbiz Pizza Place builds
 
