@@ -1,0 +1,15 @@
+{
+  "itemGroup.peetas_custom_fnaf.fnaf_group": "Peeta's FNaF",
+
+  "block.peetas_custom_fnaf.fnaf_1_wall":           "FNaF 1 Wall",
+  "block.peetas_custom_fnaf.fnaf_1_blue_wall_trim": "FNaF 1 Blue Wall Trim",
+  "block.peetas_custom_fnaf.fnaf_1_wall_trim":      "FNaF 1 Wall Trim",
+  "block.peetas_custom_fnaf.fnaf_1_bottom_wall":    "FNaF 1 Bottom Wall",
+
+  "block.peetas_custom_fnaf.fnaf_1_wall_new":       "FNaF 1 Wall (New)",
+  "block.peetas_custom_fnaf.fnaf_1_wall_trim_new":  "FNaF 1 Wall Trim (New)",
+
+  "block.peetas_custom_fnaf.showbiz_pizza_trim":    "Showbiz Pizza Trim",
+
+  "block.peetas_custom_fnaf.cupcake_prop":          "Cupcake Prop"
+}

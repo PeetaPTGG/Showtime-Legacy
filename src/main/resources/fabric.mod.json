@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "peetas_custom_fnaf",
+  "version": "${version}",
+  "name": "Peeta's Custom FNaF",
+  "description": "A FNaF themed decoration mod with walls, props, and more!",
+  "authors": [
+    "Peeta"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/peetas_custom_fnaf/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.peeta.peetas_custom_fnaf.PeetasFnafMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
